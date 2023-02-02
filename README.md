@@ -1,0 +1,2 @@
+# sandik
+Sandık Tutanak Uygulaması
